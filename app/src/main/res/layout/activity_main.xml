@@ -23,7 +23,7 @@
         android:id="@+id/civ_head"
         android:layout_width="200dp"
         android:layout_height="200dp"
-        android:src="@mipmap/head"
+        android:src="@mipmap/ic_launcher"
         app:border_color="@color/colorAccent"
         app:border_width="3dp"/>
 
